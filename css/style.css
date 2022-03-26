@@ -1,0 +1,11 @@
+#error-message{
+    visibility: hidden;
+}
+
+#not-found{
+    visibility: hidden;
+}
+
+#spinner{
+    visibility: hidden;
+}
